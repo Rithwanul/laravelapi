@@ -1,8 +1,0 @@
-{
-    "intelephense.environment.shortOpenTag": true,
-    "intelephense.phpdoc.classTemplate": {
-    
-    },
-
-    "php.validate.executablePath": "C:/wamp64/bin/php/php7.4.0/php.exe"
-}
